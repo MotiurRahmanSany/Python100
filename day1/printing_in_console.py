@@ -1,0 +1,1 @@
+print("Alhamdulillah!!\nI am learning" + "Python Programming Language\n")
